@@ -11,8 +11,8 @@
     - PUT /api/products/:id: Update an existing product (authenticated users only).
       - DELETE /api/products/:id: Delete a product (authenticated users only).
 
-<h3>Using Mongoose to define models and manage product data.</h3>
-<h3>Protect sensitive routes (create, update, delete) using authentication middleware</h3>
+- Using Mongoose to define models and manage product data.
+- Protect sensitive routes (create, update, delete) using authentication middleware
 
 <h2>2. Authentication and Authorization :</h2>
 
