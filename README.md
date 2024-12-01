@@ -36,5 +36,5 @@
 
 <h2>5. Utility Functions :</h2>
 
-   - Implemented user role management, such as admin users who can manage all products and regular users who can only manage their own products.
-   - Added pagination, search, and filter functionality for large datasets in the product list.
+- Implemented user role management, such as admin users who can manage all products and regular users who can only manage their own products.
+- Added pagination, search, and filter functionality for large datasets in the product list.
