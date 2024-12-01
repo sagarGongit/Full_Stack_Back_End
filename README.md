@@ -6,7 +6,7 @@
 
 - Building a RESTful API using Node.js and Express that includes :
 
-* GET /api/products: Fetch a list of products (public access).
+- GET /api/products: Fetch a list of products (public access).
   - POST /api/products: Create a new product (authenticated users only).
     - PUT /api/products/:id: Update an existing product (authenticated users only).
       - DELETE /api/products/:id: Delete a product (authenticated users only).
